@@ -1,4 +1,4 @@
-export const secondYear = [
+export const thirdYear = [
   {
     id: 1,
     name: "Aviral Verma",
